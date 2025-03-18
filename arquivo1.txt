@@ -1,7 +1,7 @@
 Faculdade Uniesp
 Curso: Ciência da Computação
-Matéria: Tópicos essenciais para Programação
-Nome: arthur Ferreira Estrela
+Matéria: Introdução à Programação
+Nome: Arthur Ferreira Estrela
 
 Resposta da lista de exercicio
 
@@ -9,4 +9,8 @@ questão 1
 
 questão 2
 
-questão 3 
+questão 4
+
+questão5 
+
+questão 10
